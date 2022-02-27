@@ -1,3 +1,7 @@
+# Deprecation Notice
+This repository is deprecated in favor of https://github.com/almaops/ansible-role-user  
+Please use role [almaops.user](https://galaxy.ansible.com/almaops/user) instead
+
 user-func
 =========
 
